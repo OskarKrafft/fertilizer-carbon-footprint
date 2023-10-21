@@ -1,0 +1,233 @@
+COD,Agri-Footprint Region,Country,IPCC Climate Koppen,DE EF,DE EF Level,IE Volitisation Factor IPCC,IE EF Volatilization and redeposition,IE Leaching Factor IPCC,IE EF Leaching and runoff,EF urea IPCC,EF transport (global) (kgN/ kgCO2),EF production (global) (kgN/ kgCO2)
+1,Middle East,Afghanistan,dry,0.009,Global,0.110,0.005,0.000,0.011,0.200,0.277,3.730
+2,Europe,Albania,wet,0.007,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+3,Africa,Algeria,dry,0.003,Regional,0.110,0.005,0.000,0.011,0.200,0.277,3.730
+4,Oceania,American_Samoa,wet,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+5,Europe,Andorra,wet,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+6,Africa,Angola,wet,0.003,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+7,Latin America,Anguilla,wet,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+8,Latin America,Antigua_and_Barbuda,wet,0.024,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+9,Latin America,Argentina,dry,0.024,Regional,0.110,0.005,0.000,0.011,0.200,0.277,3.730
+10,CIS,Armenia,wet,0.003,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+11,Latin America,Aruba,dry,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+12,Oceania,Australia,dry,0.010,Country,0.110,0.005,0.000,0.011,0.200,0.277,3.730
+13,Europe,Austria,wet,0.007,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+14,CIS,Azerbaijan,wet,0.003,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+15,Latin America,Bahamas,wet,0.024,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+16,Middle East,Bahrain,dry,0.009,Global,0.110,0.005,0.000,0.011,0.200,0.277,3.730
+17,South Asia,Bangladesh,wet,0.007,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+18,Latin America,Barbados,wet,0.024,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+19,CIS,Belarus,wet,0.003,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+20,Europe,Belgium,wet,0.037,Country,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+21,Latin America,Belize,wet,0.024,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+22,Africa,Benin,wet,0.003,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+23,Latin America,Bermuda,wet,0.024,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+24,East Asia,Bhutan,wet,0.006,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+25,Latin America,Bolivia_(Plurinational_State_of),wet,0.024,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+26,Europe,Bosnia_and_Herzegovina,dry,0.007,Regional,0.110,0.005,0.000,0.011,0.200,0.277,3.730
+27,Africa,Botswana,dry,0.003,Regional,0.110,0.005,0.000,0.011,0.200,0.277,3.730
+28,Latin America,Brazil,wet,0.017,Country,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+29,Latin America,British_Virgin_Islands,wet,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+30,East Asia,Brunei_Darussalam,wet,0.006,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+31,Europe,Bulgaria,wet,0.007,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+32,Africa,Burkina_Faso,dry,0.003,Regional,0.110,0.005,0.000,0.011,0.200,0.277,3.730
+33,Africa,Burundi,wet,0.003,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+34,Africa,Cabo_Verde,dry,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+35,East Asia,Cambodia,wet,0.006,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+36,Africa,Cameroon,wet,0.003,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+37,North America,Canada,wet,0.014,Country,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+38,Latin America,Cayman_Islands,wet,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+39,Africa,Central_African_Republic,dry,0.003,Regional,0.110,0.005,0.000,0.011,0.200,0.277,3.730
+40,Africa,Chad,wet,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+41,Europe,Channel_Islands,NA,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+42,Latin America,Chile,dry,0.024,Regional,0.110,0.005,0.000,0.011,0.200,0.277,3.730
+43,East Asia,China,wet,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+44,East Asia,"China,_Hong_Kong_SAR",wet,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+45,East Asia,"China,_Macao_SAR",wet,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+46,East Asia,"China,_mainland",wet,0.006,Country,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+47,East Asia,"China,_Taiwan_Province_of",wet,0.006,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+48,Latin America,Colombia,wet,0.024,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+49,Africa,Comoros,wet,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+50,Africa,Congo,wet,0.003,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+51,Oceania,Cook_Islands,wet,0.005,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+52,Latin America,Costa_Rica,wet,0.059,Country,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+53,Africa,Côte_d'Ivoire,wet,0.003,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+54,Europe,Croatia,wet,0.007,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+55,Latin America,Cuba,wet,0.024,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+56,Middle East,Cyprus,wet,0.009,Global,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+57,Europe,Czechia,wet,0.007,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+58,East Asia,Democratic_People's_Republic_of_Korea,wet,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+59,Africa,Democratic_Republic_of_the_Congo,wet,0.003,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+60,Europe,Denmark,wet,0.008,Country,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+61,Africa,Djibouti,dry,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+62,Latin America,Dominica,wet,0.024,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+63,Latin America,Dominican_Republic,wet,0.024,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+64,Latin America,Ecuador,wet,0.024,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+65,Africa,Egypt,dry,0.003,Regional,0.110,0.005,0.000,0.011,0.200,0.277,3.730
+66,Latin America,El_Salvador,wet,0.024,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+67,Africa,Equatorial_Guinea,wet,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+68,Africa,Eritrea,dry,0.003,Regional,0.110,0.005,0.000,0.011,0.200,0.277,3.730
+69,Europe,Estonia,wet,0.007,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+70,Africa,Eswatini,dry,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+71,Africa,Ethiopia,dry,0.003,Regional,0.110,0.005,0.000,0.011,0.200,0.277,3.730
+72,Latin America,Falkland_Islands_(Malvinas),dry,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+73,Europe,Faroe_Islands,wet,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+74,Oceania,Fiji,wet,0.005,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+75,Europe,Finland,wet,0.007,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+76,Europe,France,wet,0.008,Country,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+77,Latin America,French_Guiana,wet,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+78,Oceania,French_Polynesia,wet,0.005,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+79,Africa,Gabon,wet,0.003,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+80,Africa,Gambia,wet,0.003,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+81,CIS,Georgia,wet,0.003,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+82,Europe,Germany,wet,0.007,Country,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+83,Africa,Ghana,wet,0.003,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+84,Europe,Gibraltar,wet,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+85,Europe,Greece,wet,0.007,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+86,North America,Greenland,NA,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+87,Latin America,Grenada,wet,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+88,Latin America,Guadeloupe,wet,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+89,Oceania,Guam,wet,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+90,Latin America,Guatemala,wet,0.024,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+91,Africa,Guinea,wet,0.003,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+92,Africa,Guinea-Bissau,wet,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+93,Latin America,Guyana,wet,0.024,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+94,Latin America,Haiti,wet,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+95,Latin America,Honduras,wet,0.024,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+96,Europe,Hungary,wet,0.002,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+97,Europe,Iceland,dry,0.007,Regional,0.110,0.005,0.000,0.011,0.200,0.277,3.730
+98,South Asia,India,wet,0.007,Country,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+99,East Asia,Indonesia,wet,0.012,Country,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+100,Middle East,Iran_(Islamic_Republic_of),dry,0.009,Global,0.110,0.005,0.000,0.011,0.200,0.277,3.730
+101,Middle East,Iraq,dry,0.009,Global,0.110,0.005,0.000,0.011,0.200,0.277,3.730
+102,Europe,Ireland,wet,0.007,Country,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+103,Europe,Isle_of_Man,wet,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+104,Middle East,Israel,wet,0.009,Global,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+105,Europe,Italy,wet,0.017,Country,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+106,Latin America,Jamaica,wet,0.024,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+107,East Asia,Japan,wet,0.006,Country,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+108,Middle East,Jordan,dry,0.009,Global,0.110,0.005,0.000,0.011,0.200,0.277,3.730
+109,CIS,Kazakhstan,wet,0.003,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+110,Africa,Kenya,dry,0.004,Country,0.110,0.005,0.000,0.011,0.200,0.277,3.730
+111,Oceania,Kiribati,wet,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+112,Middle East,Kuwait,dry,0.009,Global,0.110,0.005,0.000,0.011,0.200,0.277,3.730
+113,CIS,Kyrgyzstan,dry,0.003,Regional,0.110,0.005,0.000,0.011,0.200,0.277,3.730
+114,East Asia,Lao_People's_Democratic_Republic,wet,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+115,Europe,Latvia,wet,0.007,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+116,Middle East,Lebanon,wet,0.009,Global,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+117,Africa,Lesotho,wet,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+118,Africa,Liberia,wet,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+119,Africa,Libya,dry,0.003,Regional,0.110,0.005,0.000,0.011,0.200,0.277,3.730
+120,Europe,Liechtenstein,wet,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+121,Europe,Lithuania,wet,0.007,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+122,Europe,Luxembourg,wet,0.007,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+123,Africa,Madagascar,wet,0.003,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+124,Africa,Malawi,wet,0.003,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+125,East Asia,Malaysia,wet,0.034,Country,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+126,South Asia,Maldives,wet,0.007,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+127,Africa,Mali,dry,0.019,Country,0.110,0.005,0.000,0.011,0.200,0.277,3.730
+128,Europe,Malta,wet,0.007,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+129,Oceania,Marshall_Islands,wet,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+130,Latin America,Martinique,wet,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+131,Africa,Mauritania,dry,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+132,Africa,Mauritius,dry,0.003,Regional,0.110,0.005,0.000,0.011,0.200,0.277,3.730
+133,South Asia,Mayotte,wet,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+134,Latin America,Mexico,wet,0.024,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+135,Oceania,Micronesia_(Federated_States_of),wet,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+136,East Asia,Mongolia,dry,0.006,Regional,0.110,0.005,0.000,0.011,0.200,0.277,3.730
+137,Europe,Montenegro,wet,0.007,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+138,Latin America,Montserrat,wet,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+139,Africa,Morocco,dry,0.003,Regional,0.110,0.005,0.000,0.011,0.200,0.277,3.730
+140,Africa,Mozambique,wet,-0.032,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+141,East Asia,Myanmar,wet,-0.032,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+142,Africa,Namibia,dry,-0.032,Regional,0.110,0.005,0.000,0.011,0.200,0.277,3.730
+143,Oceania,Nauru,wet,-0.032,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+144,South Asia,Nepal,wet,-0.032,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+145,Europe,Netherlands,wet,0.004,Country,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+146,Latin America,Netherlands_Antilles_(former),wet,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+147,Oceania,New_Caledonia,wet,0.005,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+148,Oceania,New_Zealand,wet,0.002,Country,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+149,Latin America,Nicaragua,wet,0.024,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+150,Africa,Niger,dry,0.003,Regional,0.110,0.005,0.000,0.011,0.200,0.277,3.730
+151,Africa,Nigeria,wet,0.003,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+152,Oceania,Niue,wet,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+153,Oceania,Norfolk_Island,wet,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+154,Europe,North_Macedonia,wet,0.007,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+155,Oceania,Northern_Mariana_Islands,wet,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+156,Europe,Norway,wet,0.004,Country,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+157,Middle East,Oman,dry,0.009,Global,0.110,0.005,0.000,0.011,0.200,0.277,3.730
+158,South Asia,Pakistan,dry,0.007,Regional,0.110,0.005,0.000,0.011,0.200,0.277,3.730
+159,Oceania,Palau,wet,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+160,Middle East,Palestine,wet,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+161,Latin America,Panama,wet,0.024,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+162,Oceania,Papua_New_Guinea,wet,0.005,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+163,Latin America,Paraguay,wet,0.024,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+164,Latin America,Peru,wet,0.024,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+165,East Asia,Philippines,wet,0.020,Country,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+166,East Asia,Pitcairn_Islands,wet,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+167,Europe,Poland,wet,0.007,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+168,Europe,Portugal,wet,0.007,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+169,Latin America,Puerto_Rico,wet,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+170,Middle East,Qatar,dry,0.009,Global,0.110,0.005,0.000,0.011,0.200,0.277,3.730
+171,East Asia,Republic_of_Korea,wet,0.006,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+172,CIS,Republic_of_Moldova,wet,0.003,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+173,Africa,Réunion,wet,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+174,Europe,Romania,wet,0.007,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+175,CIS,Russian_Federation,wet,0.003,Country,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+176,Africa,Rwanda,wet,0.003,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+177,Africa,"Saint_Helena,_Ascension_and_Tristan_da_Cunha",wet,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+178,Latin America,Saint_Kitts_and_Nevis,wet,0.024,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+179,Latin America,Saint_Lucia,wet,0.024,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+180,Latin America,Saint_Pierre_and_Miquelon,wet,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+181,Latin America,Saint_Vincent_and_the_Grenadines,wet,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+182,Oceania,Samoa,wet,-0.032,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+183,Europe,San_Marino,wet,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+184,Africa,Sao_Tome_and_Principe,wet,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+185,Middle East,Saudi_Arabia,dry,-0.032,Global,0.110,0.005,0.000,0.011,0.200,0.277,3.730
+186,Africa,Senegal,dry,-0.032,Regional,0.110,0.005,0.000,0.011,0.200,0.277,3.730
+187,Europe,Serbia,wet,-0.032,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+188,Africa,Seychelles,wet,-0.032,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+189,Africa,Sierra_Leone,wet,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+190,East Asia,Singapore,wet,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+191,Europe,Slovakia,wet,-0.032,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+192,Europe,Slovenia,wet,-0.032,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+193,Oceania,Solomon_Islands,wet,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+194,Africa,Somalia,dry,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+195,Africa,South Sudan,dry,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+196,Africa,South_Africa,dry,-0.032,Regional,0.110,0.005,0.000,0.011,0.200,0.277,3.730
+197,Europe,Spain,wet,0.003,Country,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+198,South Asia,Sri Lanka,wet,0.007,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+199,Africa,Sudan,dry,0.003,Regional,0.110,0.005,0.000,0.011,0.200,0.277,3.730
+200,Latin America,Suriname,wet,0.024,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+201,Europe,Sweden,wet,-0.001,Country,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+202,Europe,Switzerland,wet,0.007,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+203,Middle East,Syrian Arab Republic,dry,0.009,Global,0.110,0.005,0.000,0.011,0.200,0.277,3.730
+204,CIS,Tajikistan,dry,0.003,Regional,0.110,0.005,0.000,0.011,0.200,0.277,3.730
+205,East Asia,Thailand,wet,0.003,Country,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+206,East Asia,Timor-Leste,wet,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+207,Africa,Togo,wet,0.003,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+208,Oceania,Tokelau,wet,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+209,Oceania,Tonga,wet,-0.032,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+210,Latin America,Trinidad and Tobago,wet,-0.032,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+211,Africa,Tunisia,dry,-0.032,Regional,0.110,0.005,0.000,0.011,0.200,0.277,3.730
+212,Middle East,Turkey,wet,-0.032,Global,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+213,CIS,Turkmenistan,dry,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+214,Latin America,Turks and Caicos Islands,wet,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+215,Oceania,Tuvalu,wet,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+216,Africa,Uganda,wet,-0.032,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+217,CIS,Ukraine,wet,-0.032,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+218,Middle East,United Arab Emirates,dry,0.009,Global,0.110,0.005,0.000,0.011,0.200,0.277,3.730
+219,Europe,United Kingdom,wet,0.009,Country,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+220,Africa,United Republic of Tanzania,wet,0.003,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+221,North America,United States of America,wet,0.009,Country,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+222,Latin America,United States Virgin Islands,wet,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+223,Latin America,Uruguay,wet,-0.032,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+224,CIS,Uzbekistan,dry,-0.032,Regional,0.110,0.005,0.000,0.011,0.200,0.277,3.730
+225,Oceania,Vanuatu,wet,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+226,Latin America,Venezuela (Bolivarian Republic of),wet,-0.032,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+227,East Asia,Viet Nam,wet,-0.032,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+228,Oceania,Wallis and Futuna Islands,wet,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+229,Africa,Western Sahara,dry,NA,NA,NA,NA,NA,NA,NA,0.277,3.730
+230,Middle East,Yemen,dry,-0.032,Global,0.110,0.005,0.000,0.011,0.200,0.277,3.730
+231,Africa,Zambia,wet,-0.032,Regional,0.110,0.014,0.240,0.011,0.200,0.277,3.730
+232,Africa,Zimbabwe,wet,0.002,Country,0.110,0.014,0.240,0.011,0.200,0.277,3.730
